@@ -20,7 +20,7 @@ function WorkSelectionPage() {
               hover:scale-[1.03] hover:shadow-xl
               transition-all duration-200 ease-in-out cursor-pointer
               group relative overflow-hidden">
-          <span className="relative z-10">Get the OAA</span>
+          <span className="relative z-10">Get the OEE</span>
           <div className="absolute inset-0 bg-white/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
         </div>
 
