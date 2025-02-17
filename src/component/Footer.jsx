@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className="bg-[#0a192f] text-gray-300 py-6 text-center">
       <div className="container mx-auto">
-        <p className="text-lg font-semibold">&copy; {new Date().getFullYear()} YourCompany. All rights reserved.</p>
+        <p className="text-lg font-semibold">&copy; {new Date().getFullYear()} Manu Mantralaya. All rights reserved.</p>
         <div className="flex justify-center space-x-4 mt-2">
           <a href="#" className="hover:text-teal-400 transition duration-300">Privacy Policy</a>
           <span>|</span>
