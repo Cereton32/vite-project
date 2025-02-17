@@ -158,7 +158,7 @@ function FinalCalculationPage() {
               Download Updated Excel
             </button>
             <button
-              onClick={handleUploadToMongeoDB}
+              onClick={handleUploadToMongoDB}
               disabled={!allQualityFilled}
               className="ml-4 px-4 py-2 rounded-lg bg-blue-500 text-white hover:bg-blue-600"
             >
